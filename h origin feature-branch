@@ -1,0 +1,31 @@
+[33mcommit 8d2fff8f2d7a057314a8ca2ed387665ef7dc9fce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-branch[m[33m)[m
+Author: Polina <serysovap@gmail.com>
+Date:   Sun Nov 24 11:57:10 2024 +0500
+
+    обавлен файл feature.txt с описанием новой функциональности
+
+[33mcommit fb6398c08896ded8590a1509ffa693160a0e03ee[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/feature-branch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Polina <serysovap@gmail.com>
+Date:   Sun Nov 24 11:06:35 2024 +0500
+
+    обавлено правило для игнорирования .log файлов
+
+[33mcommit 9c70627d674df4d1913888debd9a4715b150d81f[m
+Author: Polina <serysovap@gmail.com>
+Date:   Sun Nov 24 10:43:52 2024 +0500
+
+    Добавлен файл changelog.md
+    
+    Описание изменений в проекте
+
+[33mcommit a484207c78b52e76f2793022e10ee58b0ff0ab58[m
+Author: Polina <serysovap@gmail.com>
+Date:   Sun Nov 24 10:43:23 2024 +0500
+
+    Добавлены файлы main.cs, index.html, script.js
+
+[33mcommit 00d9a7febe2aa906e3b33c28d72046921ce0b10a[m
+Author: Polina <serysovap@gmail.com>
+Date:   Sun Nov 24 10:42:52 2024 +0500
+
+    Добавлен файл hello.txt
